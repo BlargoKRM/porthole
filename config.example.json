@@ -1,0 +1,22 @@
+{
+  "serverPort": 8888,
+  "ngrok": {
+    "domain": "your-subdomain.ngrok.dev",
+    "allowedEmailDomain": "@your-domain.com"
+  },
+  "portRanges": [
+    [3000, 3100],
+    [4000, 4100],
+    [5000, 5100],
+    [5173, 5174],
+    [8000, 8100],
+    [8080, 8081]
+  ],
+  "quickLaunch": [
+    {
+      "name": "Example App",
+      "command": "npm start",
+      "port": 3000
+    }
+  ]
+}

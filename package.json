@@ -1,0 +1,11 @@
+{
+  "name": "porthole",
+  "version": "1.0.0",
+  "description": "A window into your local dev ports - access from anywhere",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["development", "ports", "localhost", "ngrok"],
+  "license": "MIT"
+}

@@ -1,0 +1,22 @@
+# Config with sensitive data
+config.json
+
+# ngrok policy files (auto-generated)
+.ngrok-policy*.json
+.porthole-policy*.json
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
