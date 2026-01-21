@@ -104,8 +104,8 @@ The main tunnel uses ngrok's traffic policy to enforce Google OAuth, restricted 
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/hoster.git
-cd hoster
+git clone https://github.com/yourusername/porthole.git
+cd porthole
 cp config.example.json config.json
 # Edit config.json with your settings
 ```
